@@ -1,1 +1,4 @@
 jupyterlab==2.2.9
+requests==2.25.0
+geopandas==0.8.0
+folium==0.11.0
